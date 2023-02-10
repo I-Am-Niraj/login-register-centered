@@ -1,0 +1,19 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+}
+
+/* Login style */
+#container{
+    height: 100vh;
+}
+
+#btnSubmit{
+    transition: all .2s ease-in;
+}
+
+#btnSubmit:hover{
+    color: #198754;
+    background-color: white;
+}
